@@ -1,0 +1,108 @@
+{
+  "mainMenu": [
+    {
+      "title": "Dodaj rekord",
+      "action": "addRecord",
+      "type": "main"
+    },
+    {
+      "title": "Przeglądanie rekordów",
+      "action": "showRecords",
+      "type": "main"
+    },
+    {
+      "title": "Wyszukaj rekord",
+      "action": "searchRecord",
+      "type": "main"
+    },
+    {
+      "title": "Wyjdź",
+      "action": "exit",
+      "type": "main"
+    }
+  ],
+
+  "recordsMenu": [
+    {
+      "title": "Nestępny rekord",
+      "action": "nextRecord",
+      "type": "showRecords"
+    },
+    {
+      "title": "Poprzedni rekord",
+      "action": "previousRecord",
+      "type": "showRecords"
+    },
+    {
+      "title": "Sortuj rekordy",
+      "action": "sortRecords",
+      "type": "showRecords"
+    },
+    {
+      "title": "Edytuj rekord",
+      "action": "editRecord",
+      "type": "showRecords"
+    },
+    {
+      "title": "Usuń rekord",
+      "action": "deleteRecord",
+      "type": "showRecords"
+    },
+    {
+      "title": "Wróć do menu",
+      "action": "backToMenu",
+      "type": "showRecords"
+    }
+  ],
+
+  "sortTypeMenu": [
+    {
+      "title": "Sortuj rosnąco",
+      "action": "sortAscending",
+      "type": "sortTypeRecords"
+    },
+    {
+      "title": "Sortuj malejąco",
+      "action": "sortDescending",
+      "type": "sortTypeRecords"
+    },
+    {
+      "title": "Wróć",
+      "action": "backToRecordsMenu",
+      "type": "sortTypeRecords"
+    }
+  ],
+
+  "sortValueMenu": [
+    {
+      "title": "Sortuj po tytule",
+      "action": "sortByTitle",
+      "type": "sortValueRecords"
+    },
+    {
+      "title": "Sortuj po autorze",
+      "action": "sortByAuthor",
+      "type": "sortValueRecords"
+    },
+    {
+      "title": "Sortuj po wydawnictwie",
+      "action": "sortByPublishHouse",
+      "type": "sortValueRecords"
+    },
+    {
+      "title": "Sortuj po roku wydania",
+      "action": "sortByPublishDate",
+      "type": "sortValueRecords"
+    },
+    {
+      "title": "Sortuj po number ISBN",
+      "action": "sortByIsbn",
+      "type": "sortValueRecords"
+    },
+    {
+      "title": "Wróć",
+      "action": "backToSortMenu",
+      "type": "sortValueRecords"
+    }
+  ]
+}

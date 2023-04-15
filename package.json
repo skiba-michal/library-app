@@ -1,0 +1,16 @@
+{
+  "name": "library-app",
+  "version": "1.0.0",
+  "description": "console library app for fun",
+  "main": "app/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "keywords": [],
+  "author": "Michal Skiba",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "prompts": "^2.2.1"
+  }
+}

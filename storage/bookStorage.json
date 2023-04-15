@@ -1,0 +1,88 @@
+{
+  "books": [
+    {
+      "title": "Przygody Jasia",
+      "author": "Michal Skiba",
+      "publishingHouse": "Nova publish",
+      "publicationDate": "10.10.2022",
+      "IsbnNumber": "123123"
+    },
+    {
+      "title": "Przygody Jasia2",
+      "author": "Michal Skiba2",
+      "publishingHouse": "Nova publish2",
+      "publicationDate": "10.11.2022",
+      "IsbnNumber": "555"
+    },
+    {
+      "title": "APrzygody Jasia",
+      "author": "AMichal Skiba",
+      "publishingHouse": "Nova publish",
+      "publicationDate": "10.10.2022",
+      "IsbnNumber": "123123"
+    },
+    {
+      "title": "BPrzygody Jasia2",
+      "author": "BMichal Skiba2",
+      "publishingHouse": "Nova publish2",
+      "publicationDate": "11.11.2022",
+      "IsbnNumber": "555"
+    },
+    {
+      "title": "CPrzygody Jasia",
+      "author": "CMichal Skiba",
+      "publishingHouse": "Nova publish",
+      "publicationDate": "12.10.2022",
+      "IsbnNumber": "123"
+    },
+    {
+      "title": "Przygody Jasia2",
+      "author": "Michal Skiba2",
+      "publishingHouse": "Nova publish2",
+      "publicationDate": "10.11.2022",
+      "IsbnNumber": "234"
+    },
+    {
+      "title": "Przygody Jasia",
+      "author": "Michal Skiba",
+      "publishingHouse": "Nova publish",
+      "publicationDate": "10.10.2022",
+      "IsbnNumber": "456"
+    },
+    {
+      "title": "Przygody Jasia2",
+      "author": "Michal Skiba2",
+      "publishingHouse": "Nova publish2",
+      "publicationDate": "10.11.2022",
+      "IsbnNumber": "555"
+    },
+    {
+      "title": "Przygody Jasia",
+      "author": "Michal Skiba",
+      "publishingHouse": "Nova publish",
+      "publicationDate": "10.10.2023",
+      "IsbnNumber": "123123"
+    },
+    {
+      "title": "Przygody Jasia2",
+      "author": "Michal Skiba2",
+      "publishingHouse": "Nova publish2",
+      "publicationDate": "10.11.2022",
+      "IsbnNumber": "555"
+    },
+    {
+      "title": "Przygody Jasia",
+      "author": "Michal Skiba",
+      "publishingHouse": "Nova publish",
+      "publicationDate": "10.10.2022",
+      "IsbnNumber": "123123"
+    },
+    {
+      "title": "Przygody Jasia2",
+      "author": "Michal Skiba2",
+      "publishingHouse": "Nova publish2",
+      "publicationDate": "10.11.2022",
+      "IsbnNumber": "555"
+    }
+  ]
+}
